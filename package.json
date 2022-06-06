@@ -1,0 +1,24 @@
+{
+  "name": "curso-profesional-javascript",
+  "version": "1.0.0",
+  "description": "Curso de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeDeLosSantos/curso-profesional-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JorgeDeLosSantos/curso-profesional-javascript/issues"
+  },
+  "homepage": "https://github.com/JorgeDeLosSantos/curso-profesional-javascript#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
